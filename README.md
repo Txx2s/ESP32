@@ -1,5 +1,5 @@
 # ESP32
-Running ESP32 using Arduino Sovt weare.
+Running ESP32 using Arduino SovtWeare.
 
 Steps:
 
